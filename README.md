@@ -2,7 +2,7 @@
 this repo contains the way to handle the list of present at "https://www.covid19india.org/demographics" via mysql way.
 
 
-This program is written for Linux os and has mysql-server.
+This program is written for Linux os and which has mysql-server installed.
 
 To update the data run the following thing:
    
