@@ -3,9 +3,12 @@ this repo contains the way to handle the list of present at "https://www.covid19
 
 
 This program is written for Linux os and which has mysql-server installed.
+
 Some assumptions:
-   mysql user name is:  root.
-   mysql password is:  password.
+   
+      mysql user name is:  root.
+      
+      mysql password is:  password.
    
 
 First run the initialSetup.sql on your mysql.
