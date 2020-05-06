@@ -4,6 +4,10 @@ this repo contains the way to handle the list of present at "https://www.covid19
 
 This program is written for Linux os and which has mysql-server installed.
 
+Python Libraries needed:
+   
+   selenium, mysql.connector and pandas.
+
 To update the data run the following thing:
    
       python3 main.py --update
